@@ -1658,7 +1658,7 @@ TODO
 * [《一张图搞定OAuth2.0》](https://www.cnblogs.com/flashsun/p/7424071.html)
 
 ### OIDC
-* [理解 OIDC](https://docs.authing.cn/authing/advanced/oidc/li-jie-oidc-liu-cheng)
+* [理解 OIDC](https://www.cnblogs.com/linianhui/p/openid-connect-core.html)
 
 ### SAML
 * [理解 SAML](https://docs.authing.cn/authing/advanced/use-saml/li-jie-saml-liu-cheng)
